@@ -1,3 +1,4 @@
 // src/index.ts
+import { MyClass } from './MyClass';
 
-export * from './MyClass';
+export {MyClass}
