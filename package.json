@@ -1,5 +1,5 @@
 {
-  "name": "my-ts-package",
+  "name": "my-test-npm-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Naman Thitha",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.14.11",
     "typescript": "^5.5.3"
