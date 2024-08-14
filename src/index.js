@@ -1,4 +1,12 @@
-// src/index.ts
-import { MyClass } from './MyClass';
+// index.js
 
-export {MyClass}
+export class MyClass {
+  constructor(name) {
+      this.name = name;
+  }
+
+  greet() {
+      return `Hello, ${this.name}!`;
+  }
+}
+
